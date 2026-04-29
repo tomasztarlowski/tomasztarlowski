@@ -1,32 +1,12 @@
-# IVVO Slash Signature
+# IVVO Brand Assets
 
-To repo używa tego samego języka marki, który jest na `ivvo.pl`.
+To repo używa assetów marki z `ivvo.pl`.
 
-## Assety
+## Źródło
 
-- `assets/ivvo-mark.svg` — kwadratowy wordmark do avatara, favicony, social cards, naklejek i badge'y repozytoriów.
-- `assets/ivvo-standard.svg` — szeroki banner do README profilu GitHub.
+- `assets/ivvo-mark.svg` — lokalna kopia `https://ivvo.pl/icon-512.svg`, czyli logo wskazane w structured data jako `Organization.logo`.
+- `assets/ivvo-standard.svg` — lokalna kopia `https://ivvo.pl/og-image.svg`, czyli obraz marki używany przez Open Graph i Twitter cards.
 - `assets/profile-banner.svg` — poprzedni banner zostawiony jako fallback/reference.
-
-## Koncept
-
-To kierunek anti-logo: bez maskotki, bez emblematu, bez dekoracyjnej odznaki startupowej. Marką jest słowo `IVVO`, zapamiętywalne przez jeden ukośny podpis.
-
-Slash może znaczyć kilka rzeczy bez robienia z logo dosłownej ilustracji:
-
-- podpis osoby, która naprawdę pisze kod,
-- cięcie przez szum,
-- ruch od problemu do działającej wersji,
-- techniczny znak bez udawania terminala.
-
-Nazwa niesie znaczenie z ivvo.pl:
-
-- `I` — idea.
-- `V` — wizja.
-- `V` — wartość.
-- `O` — wynik.
-
-Styl: czarne pole, ciepła kość słoniowa, jeden tealowy slash. Ma być ostro, prosto i powtarzalnie.
 
 ## Kanoniczne copy
 
@@ -36,14 +16,10 @@ Styl: czarne pole, ciepła kość słoniowa, jeden tealowy slash. Ma być ostro,
 - `strony · aplikacje · UX · integracje`
 - `Dostępny od Q3 2026`
 
-## Użycie
+## Kolory z logo
 
-Używaj `ivvo-mark.svg`, gdy powierzchnia jest mała. Używaj `ivvo-standard.svg`, gdy potrzebny jest banner, cover albo mocne pierwsze wrażenie.
-
-Rekomendowane tło: `#080A0C`.
-
-Kolory:
-
-- Ink: `#080A0C`
-- Warm ivory: `#F4F1EA`
-- Slash teal: `#14B8A6`
+- Tło: `#0b0820`
+- Fiolet ciemny: `#1a1138`
+- Fiolet gór: `#32204d`
+- IVVO ivory: `#f6e7c1`
+- Akcent warm: `#e8a87c`

@@ -5,8 +5,8 @@ Short, practical checklist for making `github.com/tomasztarlowski` look more int
 ## Already built here
 
 - Profile README aligned with the canonical copy from `ivvo.pl`.
-- Visual banner for immediate recognition.
-- A custom `ivvo` slash-signature wordmark and profile standard in `assets/`.
+- Visual banner copied from `ivvo.pl/og-image.svg`.
+- Logo copied from `ivvo.pl/icon-512.svg`.
 - Generated public-work section powered by GitHub API.
 - Weekly GitHub Action that refreshes public repo data.
 - Editable project copy in `data/project-copy.json`.
@@ -20,7 +20,7 @@ Short, practical checklist for making `github.com/tomasztarlowski` look more int
 3. Add a screenshot or short GIF to every important project README.
 4. Keep forks visible only when they support your positioning; the profile README intentionally promotes original repos first.
 5. Turn one local project into a public case-study repo with a clean README, demo link, screenshots, and architecture notes.
-6. Reuse the `ivvo` slash signature consistently in repo social previews, pinned project READMEs, and future ivvo materials.
+6. Reuse the same IVVO assets from `ivvo.pl` in repo social previews, pinned project READMEs, and future IVVO materials.
 
 ## Suggested repo descriptions
 
