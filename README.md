@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Tomasz Tarłowski — Creative Developer" />
+  <img src="assets/ivvo-standard.svg" alt="ivvo signal standard — Tomasz Tarłowski" />
 </p>
 
 <h1 align="center">Tomasz Tarłowski</h1>
@@ -14,6 +14,10 @@
   <a href="https://ivvo.pl"><img src="https://img.shields.io/badge/ivvo.pl-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="ivvo.pl" /></a>
   <a href="mailto:hello@ivvo.pl"><img src="https://img.shields.io/badge/email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://wa.me/48502202286"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/ivvo-mark.svg" width="112" alt="ivvo signal mark" />
 </p>
 
 ---

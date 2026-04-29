@@ -6,6 +6,7 @@ Short, practical checklist for making `github.com/tomasztarlowski` look more int
 
 - Profile README with a stronger founder/developer pitch.
 - Visual banner for immediate recognition.
+- A custom `ivvo` signal mark and profile standard in `assets/`.
 - Generated public-work section powered by GitHub API.
 - Weekly GitHub Action that refreshes public repo data.
 - Editable project copy in `data/project-copy.json`.
@@ -19,6 +20,7 @@ Short, practical checklist for making `github.com/tomasztarlowski` look more int
 3. Add a screenshot or short GIF to every important project README.
 4. Keep forks visible only when they support your positioning; the profile README intentionally promotes original repos first.
 5. Turn one local project into a public case-study repo with a clean README, demo link, screenshots, and architecture notes.
+6. Reuse the `ivvo` signal mark consistently in repo social previews, pinned project READMEs, and future ivvo materials.
 
 ## Suggested repo descriptions
 
