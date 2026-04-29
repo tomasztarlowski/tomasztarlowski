@@ -1,85 +1,111 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Tomasz Tarłowski — Creative Developer" />
+</p>
+
 <h1 align="center">Tomasz Tarłowski</h1>
+
 <p align="center">
-  <strong>Creative Developer</strong> · Warszawa, Polska
+  <strong>Creative Developer</strong> · founder of <a href="https://ivvo.pl">ivvo</a> · Warsaw / remote EU
   <br />
-  <a href="https://ivvo.pl"><code>ivvo.pl</code></a>
-  ·
-  <a href="mailto:hello@ivvo.pl">hello@ivvo.pl</a>
+  I design and ship product-grade web apps, MVPs, and premium landing pages for founders and focused teams.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://ivvo.pl"><img src="https://img.shields.io/badge/ivvo.pl-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="ivvo.pl" /></a>
+  <a href="mailto:hello@ivvo.pl"><img src="https://img.shields.io/badge/email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://wa.me/48502202286"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
 
-### 👋 Krótko
+### What I Build
 
-Buduję kompletne produkty webowe dla **founderów** i marek premium.
-Jedna osoba w dwóch rolach — **designer i developer** — bez handoffów między nimi.
+I turn early product ideas into polished, working software: interface, frontend, backend glue, deployment, and the details that make a product feel serious.
 
-**ivvo** = Idea · Vision · Value · Output.
-
-- 🛠  **Co robię:** MVP w 4–8 tygodni, premium landing page w 1–2 tygodnie, aplikacje webowe
-- 🧰  **Stack:** Next.js 15, React 18, TypeScript (strict), GSAP, Tailwind, PostgreSQL
-- 📍  **Gdzie:** Warszawa → zdalnie z klientami z całej Polski i UE
-- 🗓  **Godziny:** Pon–Pt · 9:00–18:00 CET
-- 🗣  **Języki:** polski, angielski
-- 💼  **Maksymalnie 2 aktywne projekty na raz** — z wyboru
-
----
-
-### 🚀 Pracuję teraz nad
-
-- [**ivvo.pl**](https://ivvo.pl) — interaktywne portfolio bez portfolio (Next.js 15 + GSAP snap-scroll)
-- Dwa projekty klientów pod NDA
-
----
-
-### 📫 Kontakt
-
-Najszybsza droga — **20-minutowy call**. Wychodzisz z niego z konkretną estymacją czasu, zakresu i budżetu.
-
-- 📧  [hello@ivvo.pl](mailto:hello@ivvo.pl)
-- 💬  WhatsApp: [+48 502 202 286](https://wa.me/48502202286)
-- 🌐  [ivvo.pl/kontakt](https://ivvo.pl/kontakt)
-- ❓  [ivvo.pl/faq](https://ivvo.pl/faq) — 14 odpowiedzi na pytania, które zawsze się pojawiają
-
----
-
-<details>
-<summary><strong>🇬🇧 English version</strong></summary>
-
-### About
-
-**Tomasz Tarłowski** — Creative Developer from Warsaw, Poland. Founder of
-**ivvo** — a one-person studio building complete web products for founders and
-premium brands. One brain across design and code, no agency handoffs.
-
-### Services
-
-- **MVP development** — 4–8 weeks, complete product from idea to production
-- **Premium landing page** — 1–2 weeks, custom design with GSAP motion
-- **Web applications** — dashboards, SaaS, internal tools (6–10 weeks)
-- **Product redesign** — UX audit + redesign + implementation
-- **Performance & SEO** — Core Web Vitals, technical SEO, accessibility
+- **MVPs in 4-8 weeks**: product flows, dashboards, auth, payments, integrations, admin surfaces.
+- **Premium landing pages in 1-2 weeks**: custom design, conversion-focused copy structure, fast frontend, tasteful motion.
+- **Product systems**: internal tools, SaaS foundations, content platforms, AI-assisted workflows.
+- **One person across design and code**: fewer handoffs, faster iteration, clearer ownership.
 
 ### Stack
 
-Next.js 15, React 18, TypeScript strict, Tailwind CSS, GSAP, Node.js,
-PostgreSQL, Prisma, Stripe. Hosting on Firebase App Hosting or Vercel.
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-0F766E?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
-### Contact
+### Public Work
 
-- 📧  hello@ivvo.pl
-- 💬  WhatsApp: +48 502 202 286
-- 🌐  https://ivvo.pl
-- 📍  Warsaw, Poland (remote for EU clients)
+<!-- profile:public-work:start -->
+<!-- Generated by scripts/update-profile.mjs -->
+
+<p><strong>5</strong> original public repos · <strong>Python · Swift</strong> · refreshed 29 April 2026</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/tomasztarlowski/NEWIVVO"><strong>NEWIVVO</strong></a>
+  <br />Public ivvo workspace for product-facing web work, brand experiments, and high-polish frontend direction.
+  <br /><sub>Product studio · updated 24 Apr 2026</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/tomasztarlowski/maccleaner-pro"><strong>maccleaner-pro</strong></a>
+  <br />Native macOS cleaner built with SwiftUI: large files, duplicates, leftovers, developer junk, and bilingual UI.
+  <br /><sub>macOS app · Swift · updated 19 Mar 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/tomasztarlowski/NTFSonMAC"><strong>NTFSonMAC</strong></a>
+  <br />Python utility work around NTFS workflows on macOS.
+  <br /><sub>Developer utility · Python · 1 star · updated 18 Apr 2026</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/tomasztarlowski/WiFi-ESP32--Scanner"><strong>WiFi-ESP32--Scanner</strong></a>
+  <br />ESP32 Wi-Fi scanning playground for hardware/network experiments.
+  <br /><sub>Hardware · updated 11 Apr 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/tomasztarlowski/proteaAI"><strong>proteaAI</strong></a>
+  <br />AI and service automation prototype space.
+  <br /><sub>AI prototype · updated 11 May 2025</sub>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+<sub>Source: <a href="https://github.com/tomasztarlowski?tab=repositories">GitHub repositories</a>. Forks are intentionally hidden here so the profile leads with original work.</sub>
+<!-- profile:public-work:end -->
+
+### Current Focus
+
+- Building **ivvo** as a compact product studio for founders and premium brands.
+- Shipping sharper public examples: native macOS tools, AI workflows, hardware experiments, and product-facing web systems.
+- Keeping my GitHub readable: fewer random dumps, more useful READMEs, clearer project positioning.
+
+### Work With Me
+
+Best fit: a founder or small team that needs someone who can think through product, design the interface, and ship the working build.
+
+- Website: [ivvo.pl](https://ivvo.pl)
+- Contact: [hello@ivvo.pl](mailto:hello@ivvo.pl)
+- Quick call: [WhatsApp](https://wa.me/48502202286)
+- FAQ: [ivvo.pl/faq](https://ivvo.pl/faq)
+
+<details>
+<summary><strong>Polski opis</strong></summary>
+
+Buduję kompletne produkty webowe dla founderów i marek premium: od idei, przez interfejs, po wdrożenie. Najczęściej są to MVP, landing page'e premium, dashboardy, narzędzia wewnętrzne i aplikacje z integracjami.
+
+Pracuję jako jedna osoba na styku designu i developmentu, więc projekt ma mniej przekazań, szybsze decyzje i spójniejszy efekt końcowy.
 
 </details>
 
@@ -89,12 +115,12 @@ PostgreSQL, Prisma, Stripe. Hosting on Firebase App Hosting or Vercel.
   <sub>
     <a href="https://ivvo.pl">ivvo.pl</a>
     ·
-    <a href="https://ivvo.pl/about">O mnie</a>
+    <a href="https://ivvo.pl/about">about</a>
     ·
-    <a href="https://ivvo.pl/uslugi">Usługi</a>
+    <a href="https://ivvo.pl/uslugi">services</a>
     ·
     <a href="https://ivvo.pl/faq">FAQ</a>
     ·
-    <a href="https://ivvo.pl/kontakt">Kontakt</a>
+    <a href="https://ivvo.pl/kontakt">contact</a>
   </sub>
 </p>

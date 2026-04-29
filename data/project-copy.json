@@ -1,0 +1,31 @@
+{
+  "featuredOrder": [
+    "NEWIVVO",
+    "maccleaner-pro",
+    "NTFSonMAC",
+    "WiFi-ESP32--Scanner",
+    "proteaAI"
+  ],
+  "projects": {
+    "NEWIVVO": {
+      "description": "Public ivvo workspace for product-facing web work, brand experiments, and high-polish frontend direction.",
+      "type": "Product studio"
+    },
+    "maccleaner-pro": {
+      "description": "Native macOS cleaner built with SwiftUI: large files, duplicates, leftovers, developer junk, and bilingual UI.",
+      "type": "macOS app"
+    },
+    "NTFSonMAC": {
+      "description": "Python utility work around NTFS workflows on macOS.",
+      "type": "Developer utility"
+    },
+    "WiFi-ESP32--Scanner": {
+      "description": "ESP32 Wi-Fi scanning playground for hardware/network experiments.",
+      "type": "Hardware"
+    },
+    "proteaAI": {
+      "description": "AI and service automation prototype space.",
+      "type": "AI prototype"
+    }
+  }
+}

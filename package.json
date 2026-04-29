@@ -1,0 +1,11 @@
+{
+  "name": "tomasztarlowski-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/update-profile.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
