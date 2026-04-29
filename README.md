@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ivvo-standard.svg" alt="ivvo signal standard — Tomasz Tarłowski" />
+  <img src="assets/ivvo-standard.svg" alt="ivvo slash signature — Tomasz Tarłowski" />
 </p>
 
 <h1 align="center">Tomasz Tarłowski</h1>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ivvo-mark.svg" width="112" alt="ivvo signal mark" />
+  <img src="assets/ivvo-mark.svg" width="112" alt="ivvo slash signature" />
 </p>
 
 ---
