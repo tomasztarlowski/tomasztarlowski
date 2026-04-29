@@ -1,130 +1,144 @@
 <p align="center">
-  <img src="assets/ivvo-standard.svg" alt="ivvo slash signature — Tomasz Tarłowski" />
+  <img src="assets/ivvo-standard.svg" alt="IVVO slash signature — Tomasz Tarłowski" />
 </p>
 
-<h1 align="center">Tomasz Tarłowski</h1>
+<h1 align="center">IVVO</h1>
 
 <p align="center">
-  <strong>Creative Developer</strong> · founder of <a href="https://ivvo.pl">ivvo</a> · Warsaw / remote EU
+  <strong>Tomasz Tarłowski</strong> · solo programista · Warszawa, Polska
   <br />
-  I design and ship product-grade web apps, MVPs, and premium landing pages for founders and focused teams.
+  strony · aplikacje · UX · integracje
+  <br />
+  <strong>Dostępny od Q3 2026</strong>
 </p>
 
 <p align="center">
   <a href="https://ivvo.pl"><img src="https://img.shields.io/badge/ivvo.pl-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="ivvo.pl" /></a>
-  <a href="mailto:hello@ivvo.pl"><img src="https://img.shields.io/badge/email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:hello@ivvo.pl"><img src="https://img.shields.io/badge/hello@ivvo.pl-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://wa.me/48502202286"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 <p align="center">
-  <img src="assets/ivvo-mark.svg" width="112" alt="ivvo slash signature" />
+  <img src="assets/ivvo-mark.svg" width="112" alt="IVVO slash signature" />
 </p>
 
 ---
 
-### What I Build
+### Teza
 
-I turn early product ideas into polished, working software: interface, frontend, backend glue, deployment, and the details that make a product feel serious.
+## Biorę problem i dowożę działający produkt.
 
-- **MVPs in 4-8 weeks**: product flows, dashboards, auth, payments, integrations, admin surfaces.
-- **Premium landing pages in 1-2 weeks**: custom design, conversion-focused copy structure, fast frontend, tasteful motion.
-- **Product systems**: internal tools, SaaS foundations, content platforms, AI-assisted workflows.
-- **One person across design and code**: fewer handoffs, faster iteration, clearer ownership.
+Wchodzę tam, gdzie strona albo aplikacja ma wreszcie sprzedawać, odblokować zespół albo trafić na produkcję bez kolejnej rundy odkładania.
+
+Łączę decyzję, interfejs, kod i wdrożenie, żeby użytkownik mógł kliknąć, kupić, zarezerwować albo ruszyć dalej.
+
+### Co robi IVVO
+
+IVVO to solo software studio Tomasza Tarłowskiego z Warszawy. Aplikacje webowe, MVP, strony premium, integracje, performance i SEO. Jeden właściciel od briefu do produkcji.
+
+- **Start**: strona, oferta i komunikat, które w kilka sekund mówią: warto rozmawiać.
+- **MVP**: pierwsza wersja z prawdziwym flow, danymi i wdrożeniem. Do testów, sprzedaży i rozmów z inwestorem.
+- **Ratunek**: audyt, plan i naprawa tego, co blokuje wdrożenie. Bez przepisywania dla sportu.
+
+### Co dostajesz
+
+## Klikane. Jasne. Wdrożone.
+
+- ekran, który mówi użytkownikowi, co ma zrobić dalej
+- kod przygotowany na zmianę zakresu i realne użycie
+- integracje, automatyzacje i dane spięte z produktem
+- wdrożenie, monitoring i następny krok po premierze
+
+### Jak dowożę
+
+1. **Sens** — ustalamy, komu ma pomóc produkt i jaka akcja ma się wydarzyć.
+2. **Interfejs** — układam ekran tak, żeby komunikat, flow i CTA prowadziły do decyzji.
+3. **System** — kod, dane, integracje i automatyzacje mają jeden cel: produkt działa.
+4. **Wdrożenie** — końcem nie jest makieta ani merge. Końcem jest produkcja i monitoring.
 
 ### Stack
 
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-0F766E?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Canvas%20%2F%20WebGL-0F766E?style=flat-square" alt="Canvas / WebGL" />
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-### Public Work
+### Publiczne repozytoria
 
 <!-- profile:public-work:start -->
 <!-- Generated by scripts/update-profile.mjs -->
 
-<p><strong>5</strong> original public repos · <strong>Python · Swift</strong> · refreshed 29 April 2026</p>
+<p><strong>5</strong> oryginalnych publicznych repozytoriów · <strong>Python · Swift</strong> · odświeżone 29 kwietnia 2026</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/tomasztarlowski/NEWIVVO"><strong>NEWIVVO</strong></a>
-  <br />Public ivvo workspace for product-facing web work, brand experiments, and high-polish frontend direction.
-  <br /><sub>Product studio · updated 24 Apr 2026</sub>
+  <br />IVVO workspace: strony, aplikacje, UX, integracje i system od briefu do produkcji.
+  <br /><sub>IVVO · aktualizacja 24 kwi 2026</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/tomasztarlowski/maccleaner-pro"><strong>maccleaner-pro</strong></a>
-  <br />Native macOS cleaner built with SwiftUI: large files, duplicates, leftovers, developer junk, and bilingual UI.
-  <br /><sub>macOS app · Swift · updated 19 Mar 2026</sub>
+  <br />Natywna aplikacja macOS w SwiftUI: duże pliki, duplikaty, pozostałości i porządki developerskie.
+  <br /><sub>aplikacja macOS · Swift · aktualizacja 19 mar 2026</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/tomasztarlowski/NTFSonMAC"><strong>NTFSonMAC</strong></a>
-  <br />Python utility work around NTFS workflows on macOS.
-  <br /><sub>Developer utility · Python · 1 star · updated 18 Apr 2026</sub>
+  <br />Narzędzie w Pythonie do pracy z NTFS na macOS.
+  <br /><sub>narzędzie · Python · 1 gwiazdka · aktualizacja 18 kwi 2026</sub>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/tomasztarlowski/WiFi-ESP32--Scanner"><strong>WiFi-ESP32--Scanner</strong></a>
-  <br />ESP32 Wi-Fi scanning playground for hardware/network experiments.
-  <br /><sub>Hardware · updated 11 Apr 2026</sub>
+  <br />Eksperyment z ESP32 do skanowania Wi-Fi i pracy z siecią.
+  <br /><sub>hardware · aktualizacja 11 kwi 2026</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/tomasztarlowski/proteaAI"><strong>proteaAI</strong></a>
-  <br />AI and service automation prototype space.
-  <br /><sub>AI prototype · updated 11 May 2025</sub>
+  <br />Przestrzeń prototypów AI i automatyzacji usług.
+  <br /><sub>prototyp AI · aktualizacja 11 maj 2025</sub>
 </td>
 <td width="50%" valign="top"></td>
 </tr>
 </table>
 
-<sub>Source: <a href="https://github.com/tomasztarlowski?tab=repositories">GitHub repositories</a>. Forks are intentionally hidden here so the profile leads with original work.</sub>
+<sub>Źródło: <a href="https://github.com/tomasztarlowski?tab=repositories">repozytoria GitHub</a>. Forki są tu celowo ukryte, żeby profil prowadził do oryginalnej pracy.</sub>
 <!-- profile:public-work:end -->
 
-### Current Focus
+### Współpraca
 
-- Building **ivvo** as a compact product studio for founders and premium brands.
-- Shipping sharper public examples: native macOS tools, AI workflows, hardware experiments, and product-facing web systems.
-- Keeping my GitHub readable: fewer random dumps, more useful READMEs, clearer project positioning.
+## Jedna osoba trzyma cały kontekst.
 
-### Work With Me
+Tak, jeśli chcesz zamknąć temat, nie mnożyć przekazania; potrzebujesz decyzji produktowych i wykonania; masz budżet, termin i problem, który trzeba rozwiązać; cenisz rozmowę z osobą, która naprawdę pisze kod.
 
-Best fit: a founder or small team that needs someone who can think through product, design the interface, and ship the working build.
+opisz, co chcesz dowieźć. odpowiem konkretnie.
 
-- Website: [ivvo.pl](https://ivvo.pl)
-- Contact: [hello@ivvo.pl](mailto:hello@ivvo.pl)
-- Quick call: [WhatsApp](https://wa.me/48502202286)
-- FAQ: [ivvo.pl/faq](https://ivvo.pl/faq)
+- [hello@ivvo.pl](mailto:hello@ivvo.pl)
+- [ivvo.pl/kontakt](https://ivvo.pl/kontakt)
+- [WhatsApp](https://wa.me/48502202286)
 
-<details>
-<summary><strong>Polski opis</strong></summary>
-
-Buduję kompletne produkty webowe dla founderów i marek premium: od idei, przez interfejs, po wdrożenie. Najczęściej są to MVP, landing page'e premium, dashboardy, narzędzia wewnętrzne i aplikacje z integracjami.
-
-Pracuję jako jedna osoba na styku designu i developmentu, więc projekt ma mniej przekazań, szybsze decyzje i spójniejszy efekt końcowy.
-
-</details>
+rozmowa → architektura → kod → test → wdrożenie → produkcja
 
 ---
 
 <p align="center">
   <sub>
-    <a href="https://ivvo.pl">ivvo.pl</a>
+    <a href="https://ivvo.pl">Start</a>
     ·
-    <a href="https://ivvo.pl/about">about</a>
+    <a href="https://ivvo.pl/o-tomaszu">O Tomaszu</a>
     ·
-    <a href="https://ivvo.pl/uslugi">services</a>
+    <a href="https://ivvo.pl/uslugi">Usługi</a>
     ·
-    <a href="https://ivvo.pl/faq">FAQ</a>
+    <a href="https://ivvo.pl/kontakt">Kontakt</a>
     ·
-    <a href="https://ivvo.pl/kontakt">contact</a>
+    <a href="https://ivvo.pl/llms.txt">llms.txt</a>
   </sub>
 </p>

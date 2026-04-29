@@ -1,40 +1,48 @@
-# ivvo Slash Signature
+# IVVO Slash Signature
 
-This repo now carries a simple brand system for the GitHub profile.
+To repo używa tego samego języka marki, który jest na `ivvo.pl`.
 
-## Assets
+## Assety
 
-- `assets/ivvo-mark.svg` — square wordmark for avatars, favicons, social cards, stickers, and repo badges.
-- `assets/ivvo-standard.svg` — wide wordmark banner for the GitHub profile README.
-- `assets/profile-banner.svg` — previous profile banner kept as fallback/reference.
+- `assets/ivvo-mark.svg` — kwadratowy wordmark do avatara, favicony, social cards, naklejek i badge'y repozytoriów.
+- `assets/ivvo-standard.svg` — szeroki banner do README profilu GitHub.
+- `assets/profile-banner.svg` — poprzedni banner zostawiony jako fallback/reference.
 
-## Concept
+## Koncept
 
-This is the anti-logo direction: no mascot, no emblem, no decorative startup badge. The brand is the word `ivvo`, made memorable by one slash signature.
+To kierunek anti-logo: bez maskotki, bez emblematu, bez dekoracyjnej odznaki startupowej. Marką jest słowo `IVVO`, zapamiętywalne przez jeden ukośny podpis.
 
-The slash can mean a few useful things without becoming literal:
+Slash może znaczyć kilka rzeczy bez robienia z logo dosłownej ilustracji:
 
-- a founder's signature,
-- a cut through noise,
-- a forward motion from idea to output,
-- a terminal-like mark without becoming a terminal logo.
+- podpis osoby, która naprawdę pisze kod,
+- cięcie przez szum,
+- ruch od problemu do działającej wersji,
+- techniczny znak bez udawania terminala.
 
-The name still carries the `IVVO` meaning:
+Nazwa niesie znaczenie z ivvo.pl:
 
-- `I` — Idea: the vertical starting point.
-- `V` — Vision: the first directional decision.
-- `V` — Value: the second decision, mirrored into delivery.
-- `O` — Output: the shipped, visible result.
+- `I` — idea.
+- `V` — wizja.
+- `V` — wartość.
+- `O` — wynik.
 
-The style should feel sharp, deliberate, and easy to repeat: black field, warm ivory wordmark, one teal slash.
+Styl: czarne pole, ciepła kość słoniowa, jeden tealowy slash. Ma być ostro, prosto i powtarzalnie.
 
-## Usage
+## Kanoniczne copy
 
-Use the mark when the surface is small. Use the standard when the surface needs to feel like a banner, cover, or manifesto.
+- `IVVO to solo software studio Tomasza Tarłowskiego z Warszawy.`
+- `Aplikacje webowe, MVP, strony premium, integracje, performance i SEO.`
+- `Jeden właściciel od briefu do produkcji.`
+- `strony · aplikacje · UX · integracje`
+- `Dostępny od Q3 2026`
 
-Recommended background: `#080A0C`.
+## Użycie
 
-Primary colors:
+Używaj `ivvo-mark.svg`, gdy powierzchnia jest mała. Używaj `ivvo-standard.svg`, gdy potrzebny jest banner, cover albo mocne pierwsze wrażenie.
+
+Rekomendowane tło: `#080A0C`.
+
+Kolory:
 
 - Ink: `#080A0C`
 - Warm ivory: `#F4F1EA`

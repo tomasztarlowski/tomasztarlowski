@@ -4,7 +4,7 @@ Short, practical checklist for making `github.com/tomasztarlowski` look more int
 
 ## Already built here
 
-- Profile README with a stronger founder/developer pitch.
+- Profile README aligned with the canonical copy from `ivvo.pl`.
 - Visual banner for immediate recognition.
 - A custom `ivvo` slash-signature wordmark and profile standard in `assets/`.
 - Generated public-work section powered by GitHub API.
@@ -24,7 +24,7 @@ Short, practical checklist for making `github.com/tomasztarlowski` look more int
 
 ## Suggested repo descriptions
 
-- `NEWIVVO`: Product studio workspace for high-polish web builds, frontend experiments, and ivvo brand systems.
+- `NEWIVVO`: IVVO workspace: strony, aplikacje, UX, integracje i system od briefu do produkcji.
 - `WiFi-ESP32--Scanner`: ESP32 Wi-Fi scanner playground for wireless/network experiments.
 - `proteaAI`: AI automation prototype space for service workflows and product experiments.
 
