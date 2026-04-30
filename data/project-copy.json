@@ -8,24 +8,24 @@
   ],
   "projects": {
     "NEWIVVO": {
-      "description": "IVVO workspace: strony, aplikacje, UX, integracje i system od briefu do produkcji.",
+      "description": "Tu dłubię przy IVVO: strona, copy, UX i system.",
       "type": "IVVO"
     },
     "maccleaner-pro": {
-      "description": "Natywna aplikacja macOS w SwiftUI: duże pliki, duplikaty, pozostałości i porządki developerskie.",
-      "type": "aplikacja macOS"
+      "description": "Macowa apka do sprzątania dużych plików i dev-śmieci.",
+      "type": "macOS"
     },
     "NTFSonMAC": {
-      "description": "Narzędzie w Pythonie do pracy z NTFS na macOS.",
+      "description": "Małe narzędzie do NTFS na macOS.",
       "type": "narzędzie"
     },
     "WiFi-ESP32--Scanner": {
-      "description": "Eksperyment z ESP32 do skanowania Wi-Fi i pracy z siecią.",
+      "description": "ESP32, Wi-Fi i trochę zabawy z siecią.",
       "type": "hardware"
     },
     "proteaAI": {
-      "description": "Przestrzeń prototypów AI i automatyzacji usług.",
-      "type": "prototyp AI"
+      "description": "Prototypy AI i automatyzacje usług.",
+      "type": "AI"
     }
   }
 }
