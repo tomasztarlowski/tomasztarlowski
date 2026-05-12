@@ -3,12 +3,9 @@
   Tomasz Tarłowski · solo programista · Warszawa
   <br />
   strony · aplikacje · UX · integracje
-  <br />
-  dostępny od Q3 2026
-</p>
+  <br /></p>
 
 <p align="center">
-  <a href="https://ivvo.pl"><img src="https://img.shields.io/badge/ivvo.pl-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="ivvo.pl" /></a>
   <a href="mailto:hello@ivvo.pl"><img src="https://img.shields.io/badge/hello@ivvo.pl-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://wa.me/48502202286"><img src="https://img.shields.io/badge/WhatsApp-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
