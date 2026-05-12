@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/ivvo-standard.svg" alt="IVVO — solo programista, cały produkt" />
-</p>
-
-<h1 align="center">IVVO</h1>
 
 <p align="center">
   Tomasz Tarłowski · solo programista · Warszawa
